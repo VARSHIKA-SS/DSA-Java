@@ -4,8 +4,7 @@ class Node{
   int data;
   Node next;
   Node(int data){
-    this.data=data;
-  }
+    this.data=data;}
   }
 public class SinglyLinkedList { // Declare head as a static variable
   static Node head;
