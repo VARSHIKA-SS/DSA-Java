@@ -1,4 +1,4 @@
-package DEFAULT;
+
 import java.util.*;
 public class Palindromeno {
   public static boolean isNumberPalin(int no){
