@@ -13,6 +13,6 @@ public class ArrayReverse {
       arr[tail]=temp;
       head++;tail--;
     }
-    System.out.println(Arrays.toString(arr));
+    System.out.println(Arrays.toString(arr));sc.close();
   } 
 }

@@ -24,7 +24,7 @@ public class SecLarge {
     for(int i=0;i<n;i++){
       arr[i]=sc.nextInt();
     }
-    System.out.println(getSeclarge(arr));
+    System.out.println(getSeclarge(arr));sc.close();
     // Arrays.sort(arr); 
     // System.out.println(arr[n-2]);
     // THERE IS A DISADVANTAGE(WHEN NUMBERS ARE REPEATED, THIS IS NOT APPLICABLE)

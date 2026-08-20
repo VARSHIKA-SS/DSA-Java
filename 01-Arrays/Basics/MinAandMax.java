@@ -11,6 +11,6 @@ public class MinAandMax {
       max=arr[0];min=arr[0];
       if(arr[i]>max) max=arr[i];
       else if(arr[i]<min && arr[i]<max) min=arr[i];
-    }System.out.print("MAX: "+max+" , MIN:"+min);
+    }System.out.print("MAX: "+max+" , MIN:"+min);sc.close();
   }
 }
