@@ -1,4 +1,4 @@
-package Numbers;
+package Numbers.Basic;
 
 import java.util.*;
 public class Palindromeno {
