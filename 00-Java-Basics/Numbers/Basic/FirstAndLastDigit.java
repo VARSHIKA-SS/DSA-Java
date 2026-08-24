@@ -13,7 +13,7 @@ public class FirstAndLastDigit {
   }
   int o=1;
   for(int i=1;i<count;i++){o*=10;}
-  System.out.println("First digt of "+v+" is : "+v/o+"\nLast  digt of "+v+" is : "+v%10);
+  System.out.println("First digt of "+v+" is : "+v/o+"\nLast digt of "+v+" is : "+v%10);
   sc.close();
   }
 }
